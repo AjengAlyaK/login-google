@@ -32,7 +32,7 @@ return [
     ],
 
     'google' => [
-        'client_d' => '580845881281-nvb0h712r2irbp2hrmci2ov2v91svm5k.apps.googleusercontent.com',
+        'client_id' => '580845881281-nvb0h712r2irbp2hrmci2ov2v91svm5k.apps.googleusercontent.com',
         'client_secret'=> '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',
         'redirect'=> 'http://127.0.0.1:8000/auth/google/callback',
     ]

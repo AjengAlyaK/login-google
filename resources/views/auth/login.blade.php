@@ -44,7 +44,7 @@
                 </x-button>
             </div>
             <div>
-                <a style="background-color: skyblue;" href="">Login Using Google</a>
+                <a style="background-color: skyblue;" href="auth/google">Login Using Google</a>
             </div>
         </form>
     </x-authentication-card>
